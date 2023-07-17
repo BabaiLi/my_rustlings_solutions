@@ -24,7 +24,7 @@
 * [if2](exercises/if/if2.rs)
 
 ### **quiz**
-* [quiz2](exercises/quiz2.rs)
+* [quiz1](exercises/quiz1.rs)
 
 ### **primitive_types**
 * [primitive_types1](exercises/primitive_types/primitive_types1.rs)
